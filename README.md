@@ -1,12 +1,3 @@
-<!--
- * @Author: pangff
- * @Date: 2022-05-08 16:07:46
- * @LastEditTime: 2022-05-09 16:32:34
- * @LastEditors: pangff
- * @Description: readme
- * @FilePath: /server-validator-nocobase/README.md
- * stay hungry,stay foolish
--->
 
 ### 使用方式
 
